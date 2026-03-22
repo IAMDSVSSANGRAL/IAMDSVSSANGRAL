@@ -120,9 +120,9 @@ Features:
 
 # 📫 Connect With Me
 
-* 💼 LinkedIn: Add your profile link
+* 💼 LinkedIn: https://www.linkedin.com/in/vishaltheanalyst/
 * 📺 YouTube: Desi Data Guy
-* 🌐 Portfolio: Add your website link
+* 🌐 Portfolio: Coming soon
 
 ---
 
